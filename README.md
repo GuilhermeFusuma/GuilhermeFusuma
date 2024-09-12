@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">My name is Guilherme Kenji Fusuma and I'm a Fullstack developer, from Brazil.</p>
+<p align="center">My name is Guilherme Kenji Fusuma and I'm a student, from Brazil.</p>
 
 ###
 
