@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024.<br>📚 I'm currently learning javascript.<br>🎯 Goals: Keep learning everything i can.<br>🎮 I like to play games, watch anime and play volleyball</p>
+<p align="left">✨ Creating bugs since 2024.<br>📚 I'm currently learning SQL.<br>🎯 Goals: Keep learning everything i can.<br>🎮 I like to play games, watch anime and play volleyball</p>
 
 ###
 
@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/guilherme-kenji-fusuma-699a61277" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-kenji-fusuma-699a61277/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="http://discordapp.com/users/585549866994892830" target="_blank">
